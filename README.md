@@ -1,1 +1,12 @@
-# qwr6868.github.io
+TracePrint "111"
+Delay 1000
+TracePrint "222"
+Delay 1000
+TracePrint "333"
+Delay 1000
+TracePrint "444"
+Delay 1000
+TracePrint "555"
+Delay 1000
+TracePrint "666"
+Delay 1000
